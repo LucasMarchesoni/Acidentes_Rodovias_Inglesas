@@ -1,6 +1,6 @@
 # Acidentes de carro em rodovias
 
-![Logo]("figures/assets/Bandeira-do-Reino-Unido-oficial.jpg")
+![Logo](figures/assets/Bandeira-do-Reino-Unido-oficial.jpg)
 
 O projeto consiste na análise de acidentes que ocorreram em rodovias da Inglaterra.
 
@@ -42,7 +42,7 @@ Para a apresentação, possuí duas opções:
 
 No dashboard, pode-se conferir quais os indicadores existem para um melhor entendimento e existe a possibilidade de aplicar filtros para diferentes visões.
 
-![Dashboard]("figures/assets/dashboard.png")
+![Dashboard](figures/assets/dashboard.png)
 
 **[Clique para ver o dashboard](https://app.powerbi.com/view?r=eyJrIjoiYmM5M2E1YzgtZGU1Yy00NDMwLThjYTUtZTNlZDBhZWE4ODgzIiwidCI6ImE5NjgwMmM4LTA0OTAtNDI3NC1iZDVmLTA5NzIxYWQzOWRjNiJ9)**
 
