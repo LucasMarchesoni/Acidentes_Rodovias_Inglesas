@@ -1,6 +1,6 @@
 # Acidentes de carro em rodovias
 
-![Logo]("./figures/assets/Bandeira-do-Reino-Unido-oficial.jpg")
+![Logo]("figures/assets/Bandeira-do-Reino-Unido-oficial.jpg")
 
 O projeto consiste na análise de acidentes que ocorreram em rodovias da Inglaterra.
 
@@ -42,7 +42,7 @@ Para a apresentação, possuí duas opções:
 
 No dashboard, pode-se conferir quais os indicadores existem para um melhor entendimento e existe a possibilidade de aplicar filtros para diferentes visões.
 
-![Dashboard]("./figures/assets/dashboard.png")
+![Dashboard]("figures/assets/dashboard.png")
 
 **[Clique para ver o dashboard](https://app.powerbi.com/view?r=eyJrIjoiYmM5M2E1YzgtZGU1Yy00NDMwLThjYTUtZTNlZDBhZWE4ODgzIiwidCI6ImE5NjgwMmM4LTA0OTAtNDI3NC1iZDVmLTA5NzIxYWQzOWRjNiJ9)**
 
@@ -61,28 +61,37 @@ Utilizei as seguintes ferramentas:
 ## Perguntas respondidas
 
 **1 - Qual o top 5 de cidades com mais acidentes?**
+
 As 5 cidades com mais acidentes foram Birmingham, Leeds, Manchester, Bradford e Westminster
 
 **2 - Qual a severidade dos acidentes?**
+
 Cerca de 85,5% dos acidentes foram considerados leves, porém, existiu 13% de acidentes sérios e 1,5% de acidentes fatais, indicando que mais ou menos 15% dos acidentes tiveram uma certa gravidade.
 
 **3 - Condições luminosas influenciaram nos acidentes?**
+
 Podemos dizer que as condições luminosas não foram um fator, uma vez que, cerca de 74% dos acidentes aconteceram com a luz do dia existente.
 
 **4 - Condições da rodovia influenciaram nos acidentes?**
+
 As condições da rodovia influenciaram em cerca de 30% dos acidentes apenas, em 68% dos acidentes, a condição da pista era seca.
 
 **5 - Qual o tipo de rodovia com mais acidentes?**
+
 Cerca de 75% dos acidentes ocorreram em rodovias de mão única e com ambas direções.
 
 **6 - Aconteceram mais acidentes em áreas urbanas ou rurais?**
+
 A maior parte dos acidentes aconteceram em áreas urbanas como é de se esperar por possuir mais tráfego, com quase 200 mil acidentes.
 
 **7 - Condições climáticas influenciam nos acidentes?**
+
 Podemos dizer que não possui influencia, quase 80% dos acidentes aconteceram em dias normais e sem vento.
 
 **8 - Qual dia da semana teve mais acidentes?**
+
 O dia da semana que teve mais acidentes foi na sexta feira.
 
 **9 - Qual tipo de veículo esteve envolvido em mais acidentes?**
+
 Carros de passeio estiveram envolvidos em cerca de 78% dos acidentes.
